@@ -12,6 +12,20 @@ color:${palette.DarkViolet};
 margin-bottom:.5rem;
 text-align:center;
 `;
+export const Title2=styled.h2`
+font-size:1.5rem;
+font-weight:700;
+color:${palette.DarkViolet};
+margin-bottom:1rem;
+text-align:center;
+`;
+export const Title3=styled.h3`
+font-size:1.3rem;
+font-weight:700;
+color:${palette.DarkViolet};
+margin-bottom:1rem;
+text-align:center;
+`;
 export const Paragraph=styled.p`
 font-size:1rem;
 font-weight:500;
