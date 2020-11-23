@@ -27,4 +27,5 @@ font-weight:500;
 padding:.5rem 1.5rem;
 border-radius:15px;
 border:none;
+cursor:pointer;
 `;
